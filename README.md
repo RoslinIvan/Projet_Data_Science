@@ -18,7 +18,7 @@ L’objectif est de construire un **modèle de machine learning capable de préd
 ---
 
 ## 📂 Description des données
-Le dataset contient :
+Le dataset contient : (https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/)
 
 - **Store / Dept** : identifiants des magasins et départements  
 - **Date / Week** : information temporelle  
