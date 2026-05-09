@@ -1,4 +1,4 @@
-# 📊 Prévision des ventes Walmart – Projet Data Science
+# 📊 Prévision des ventes Walmart
 
 ## 🧠 Présentation du projet
 Ce projet vise à analyser et prédire les **ventes hebdomadaires des magasins Walmart** à partir de données historiques et de facteurs externes tels que les jours fériés, la température, le prix du carburant, l’inflation (CPI), le chômage et les promotions (MarkDown).
